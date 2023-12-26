@@ -1,0 +1,9 @@
+{
+  "name": "InverseTeleporterToPlayer",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Mordrog/LethalCompany-InverseTeleporterToPlayer",
+  "description": "The mod changes default behaviour of inverse teleporter to teleport players to target selected on map in ship",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
