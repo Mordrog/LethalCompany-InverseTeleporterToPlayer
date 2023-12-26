@@ -1,7 +1,7 @@
 # InverseTeleporterToPlayer
 Lethal Company mod that changes default behaviour of inverse teleporter to teleport players to target selected on map screen in ship (or Brazil)
 
-Great Assets for testing:
+Great Assets for testing: <br />
 Reebalt - https://www.artstation.com/reebalt
 
 ## More
